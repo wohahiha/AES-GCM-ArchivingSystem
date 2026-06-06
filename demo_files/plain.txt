@@ -1,0 +1,8 @@
+这是 AES-GCM 与 Merkle 校验归档系统的演示明文文件。
+
+该文件用于命令行原型测试：
+- encrypt 命令会把它加密导入 vault；
+- verify 命令会校验密文块和 manifest；
+- decrypt 命令会把它恢复到 outputs 目录；
+- tamper-test 命令会模拟密文或清单被篡改。
+
