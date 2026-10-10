@@ -103,4 +103,6 @@ scripts/               Demo and benchmark scripts
 demo_files/            Small sample input file
 ```
 
+## License
+
 Released under the MIT License.
