@@ -103,8 +103,4 @@ scripts/               Demo and benchmark scripts
 demo_files/            Small sample input file
 ```
 
-## Status
-
-This is a command-line research and coursework prototype. It demonstrates the encryption, verification, recovery, tamper-detection, and benchmark workflow, but it is not a production file vault.
-
 Released under the MIT License.
