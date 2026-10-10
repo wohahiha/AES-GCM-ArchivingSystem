@@ -2,7 +2,7 @@
 
 This repository contains a small command-line prototype for private document archiving with AES-GCM authenticated encryption and Merkle-based integrity checking.
 
-It is built as an experimental system: the code creates an archive directory, encrypts files into authenticated chunks, records chunk metadata in a manifest, verifies the archive before recovery, and runs tamper-detection and benchmark experiments.
+The code creates an archive directory, encrypts files into authenticated chunks, records chunk metadata in a manifest, verifies the archive before recovery, and runs tamper-detection and benchmark experiments.
 
 ## What is implemented
 
